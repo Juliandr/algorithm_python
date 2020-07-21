@@ -1,3 +1,3 @@
 # algorithm_python
-learn_python
-学习最重要的还是要持之以恒
+## 并查集实现 [文件夹目录](https://github.com/Juliandr/algorithm_python/tree/master/Disjoinet_Set)
+### answer_quickunionsds.py big theta（）
