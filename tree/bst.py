@@ -10,7 +10,7 @@ def bst_add(tree, x):
 		return BST(x)
 	if x < tree.label:
 		tree.left = bst_add(tree.left, x)
-	elif:
+	else:
 		tree.right = bst_add(tree.right, x)
 	return tree
 
